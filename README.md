@@ -9,7 +9,6 @@
 - Git, JIRA, Bootstrap, SASS, AgGrid, Jest, Apache Superset  
 
 💼 Worked with Fortune 500 cybersecurity companies  
-📊 Currently building analytical dashboards at **Smarsh Cyber**  
 
 📍 Pune, India  
 📫 Reach me: **shivkantbkadam@gmail.com**
