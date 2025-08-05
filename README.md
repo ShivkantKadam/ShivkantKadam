@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivkant Kadam
 
-<!--
-**ShivkantKadam/ShivkantKadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Frontend Developer | 8+ Years Experience  
+🚀 Building responsive, scalable web apps with React & Angular  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack:
+- JavaScript (ES6), TypeScript, HTML5, CSS3  
+- React.js, Angular, Redux  
+- Git, JIRA, Bootstrap, SASS, AgGrid, Jest, Apache Superset  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Worked with Fortune 500 cybersecurity companies  
+📊 Currently building analytical dashboards at **Smarsh Cyber**  
+
+📍 Pune, India  
+📫 Reach me: **shivkantbkadam@gmail.com**
